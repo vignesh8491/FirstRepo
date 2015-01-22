@@ -30,3 +30,9 @@ only initializes not commited
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it awesome. you can add files to commit and u can commit all atonce
+
+How can you use the staging area to make sure you have one commit per logical change?
+add one file at a time
+
+When to Use Branches
+when experimenting :)
