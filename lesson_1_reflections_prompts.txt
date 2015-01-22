@@ -27,3 +27,6 @@ start my project
 
 What happens when you initialize a repository? Why do you need to do it?
 only initializes not commited
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it awesome. you can add files to commit and u can commit all atonce
